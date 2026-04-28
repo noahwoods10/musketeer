@@ -45,7 +45,7 @@ export default function App() {
       <section style={{ background: '#2D5A3D', minHeight: '100vh', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', textAlign: 'center', padding: '7rem 2rem 4rem' }}>
         <SwordIcon style={{ width: '36px', height: '72px', color: 'white', opacity: 0.85, marginBottom: '2rem' }} />
         <h1 style={{ fontFamily: '"Cormorant Garamond", serif', color: 'white', fontWeight: 300, fontSize: 'clamp(3rem,10vw,8.5rem)', letterSpacing: '0.35em', lineHeight: 1, margin: 0 }}>MUSKETEER</h1>
-        <p style={{ fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', color: 'rgba(255,255,255,0.45)', fontSize: 'clamp(1.1rem,2.5vw,1.75rem)', marginTop: '1.5rem' }}>En Garde.</p>
+        <p style={{ fontFamily: '"Cormorant Garamond", serif', fontStyle: 'italic', color: 'rgba(255,255,255,0.45)', fontSize: 'clamp(1.1rem,2.5vw,1.75rem)', marginTop: '1.5rem' }}>Stay Sharp.</p>
         <div style={{ marginTop: '3rem', display: 'flex', gap: '1rem' }}>
           <button style={{ background: 'white', color: '#2D5A3D', border: 'none', padding: '0.75rem 2rem', fontSize: '0.7rem', letterSpacing: '0.18em', fontWeight: 500, cursor: 'pointer' }}>Work With Us</button>
           <button style={{ background: 'transparent', color: 'rgba(255,255,255,0.65)', border: '1px solid rgba(255,255,255,0.3)', padding: '0.75rem 2rem', fontSize: '0.7rem', letterSpacing: '0.18em', fontWeight: 500, cursor: 'pointer' }}>See Our Work</button>
